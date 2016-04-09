@@ -45,7 +45,6 @@
   },
   "homepage": "https://github.com/alykoshin/mini-fs",
   "dependencies": {
-    "minimist": "^1.2.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
