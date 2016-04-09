@@ -1,6 +1,6 @@
 {
   "name": "mini-fs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Set of file system functions to extend fs module",
   "main": "./index.js",
   "engines": {
@@ -44,8 +44,7 @@
     "url": "https://github.com/alykoshin/mini-fs/issues"
   },
   "homepage": "https://github.com/alykoshin/mini-fs",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-things": "^0.2.0",
