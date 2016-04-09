@@ -1,6 +1,6 @@
 {
   "name": "mini-fs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Set of file system functions to extend fs module",
   "main": "./index.js",
   "engines": {
@@ -32,7 +32,7 @@
     "coverall": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "keywords": [
-      "fs,file,system,dir,directory"
+    "fs,file,system,dir,directory"
   ],
   "author": "Alexander <alykoshin@gmail.com>",
   "license": "MIT",
